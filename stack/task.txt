@@ -1,0 +1,2 @@
+The issue in my code is, I am trying to store only 5 items to it is storing upto 7 items.
+solve that issue and write your solution here (below):
